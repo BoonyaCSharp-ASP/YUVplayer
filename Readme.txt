@@ -12,3 +12,6 @@ Add following functions:
     from file name. Format is like "XXX_{width}x{height}.yuv"
 (4) Add Chinese language support
 (5) Add 8:1 Zomm in.
+
+YUV Vedio：
+http://trace.eas.asu.edu/yuv/
